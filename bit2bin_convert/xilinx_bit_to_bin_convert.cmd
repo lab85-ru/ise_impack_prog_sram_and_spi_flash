@@ -1,0 +1,1 @@
+dd if=top.bit of=top.bin skip=89 bs=1
